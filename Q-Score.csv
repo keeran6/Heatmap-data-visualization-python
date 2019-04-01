@@ -1,0 +1,25 @@
+SWComponents,Q-Score,Yrows,Xcols
+BaseOS,90,1,1
+DRIVER,90,1,2
+Compute API,60,1,3
+Tensor,80,1,4
+DCS-BMC,90,2,1
+DCV-BMC,56,2,2
+NVSM,88,2,3
+NvSysinfo,56,2,4
+NvHealth,78,3,1
+OtherFirmwares,78,3,2
+AllContainers,78,3,3
+Perf KPI E2E,56,3,4
+PDKonDCV,79,4,1
+Stress-E2E,80,4,2
+HIL-Sanity,80,4,3
+SIL-Sanity,98,4,4
+OOBE,70,5,1
+E2E UX,71,5,2
+DriveAV,87,5,3
+NCAP-AEB,72,5,4
+RESIM,70,6,1
+Cloud-integration,48,6,2
+CI-Ready,43,6,3
+Post-release,50,6,4
